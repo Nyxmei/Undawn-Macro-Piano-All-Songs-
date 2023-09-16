@@ -6,7 +6,7 @@ Thank you!!
 
 # How to use
 
-1.Download latest python in your system (https://www.python.org)
+1.Download latest python in your system (https://www.python.org)/n
 2.
        
 
