@@ -28,10 +28,8 @@ Thank you!!
 # Links
  
  Macro.py zip file:
-   
-   Github link: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Myinx/Undawn-Macro-Piano-All-Songs-/macro.py
-   
-   Mirror link: https://drive.google.com/file/d/17Unq8X-YgnYg9AfSLLgDuFqrLyI-iHXw/view?usp=drive_link
+   [Github]([URL](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Myinx/Undawn-Macro-Piano-All-Songs-/macro.py))
+   [Drive]([URL](https://drive.google.com/file/d/17Unq8X-YgnYg9AfSLLgDuFqrLyI-iHXw/view?usp=drive_link))
  
  # About
 
@@ -47,7 +45,7 @@ Thank you!!
 
 # License
 
-  -This project is under [MIT]()
+  -This project is under [MIT](https://github.com/Myinx/Undawn-Macro-Piano-All-Songs-/blob/main/License.md)
   -© Tencent Co., Ltd. This project is not affiliated with Tencent or endorsed by them. Undawn and other properties mentioned here belong to their respective owners.
   -This project uses third-party libraries and resources that may have different licenses
 
