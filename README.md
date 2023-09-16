@@ -28,8 +28,7 @@ Thank you!!
 # Links
  
  Macro.py zip file:
-   [Github]([URL](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Myinx/Undawn-Macro-Piano-All-Songs-/macro.py))
-   [Drive]([URL](https://drive.google.com/file/d/17Unq8X-YgnYg9AfSLLgDuFqrLyI-iHXw/view?usp=drive_link))
+   [Github](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Myinx/Undawn-Macro-Piano-All-Songs-/macro.py)
  
  # About
 
