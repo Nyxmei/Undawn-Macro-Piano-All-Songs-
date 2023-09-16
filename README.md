@@ -26,9 +26,6 @@ Thank you!!
 11. To stop the music simply hold Alt+tab and switch to the command/powershell screen by using tab and close it.
 
 # Links
-
- Python 
- https://www.python.org/
  
  Macro.py zip file:
    
@@ -36,7 +33,10 @@ Thank you!!
    
    Mirror link: https://drive.google.com/file/d/17Unq8X-YgnYg9AfSLLgDuFqrLyI-iHXw/view?usp=drive_link
  
- #About
+ # About
 
-  #What are 
-                           
+What are MIDI?
+   
+MIDI, or Musical Instrument Digital Interface, enables communication between electronic musical instruments, computers, and devices for music and sound production. It conveys note, timing, and control information, used to trigger sounds, control synthesizers, and 
+record performances. MIDI is a fundamental technology in the music industry.
+                            
