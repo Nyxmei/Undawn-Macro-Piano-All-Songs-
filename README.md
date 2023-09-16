@@ -23,4 +23,11 @@ Thank you!!
    py macro.py "PATH"
      ```
 10.To stop the music simply hold Alt+tab and switch to the command/powershell screen by using tab and close it.
+
+# Links
+
+ Python: 
+ Macro.py zip file: 
+ 
+ 
                            
