@@ -5,7 +5,7 @@ I've created a Python script that enables you to play all the songs on the Undaw
 
 1. Download latest python in your system.
 2. Make sure to select these two options when insalling python -Add python.exe to path  -Install python for all users
-3. "Open the command prompt, type the following commands, and press Enter:
+3. Open the command prompt, type the following commands, and press Enter:
    
      ```
    pip install mido pyautogui
