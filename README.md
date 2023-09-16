@@ -47,9 +47,9 @@ Thank you!!
 
 # License
 
- This project is under [MIT]()
- © Tencent Co., Ltd. This project is not affiliated with Tencent or endorsed by them. Undawn and other properties mentioned here belong to their respective owners.
- This project uses third-party libraries and resources that may have different licenses
+  -This project is under [MIT]()
+  -© Tencent Co., Ltd. This project is not affiliated with Tencent or endorsed by them. Undawn and other properties mentioned here belong to their respective owners.
+  -This project uses third-party libraries and resources that may have different licenses
 
 
 
