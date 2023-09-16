@@ -10,7 +10,9 @@ Thank you!!
 2. Make sure to select these two options when insalling python -Add python.exe to path  -Install python for all users
 3. Open command prompt and tpye the following commands:
 
-     ``` pip install mido pyautogui ```
+     ```
+   pip install mido pyautogui
+    ```
   
 5. Download the zip folder containing macro.py and extract it.
 6. Download a midi music that goes well with piano and copy its path (Can simply right click on the downloaded midi and choose copy as path)
