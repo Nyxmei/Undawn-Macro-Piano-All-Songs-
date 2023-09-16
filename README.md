@@ -20,14 +20,19 @@ Thank you!!
 8. Now open the game and switch to piano screen.
 9. Come back to command/powershell window and type the following commands and switch to game once u tap enter:
     ```
-   py macro.py "PATH"
+   py macro.py "PATH" 
      ```
-10.To stop the music simply hold Alt+tab and switch to the command/powershell screen by using tab and close it.
+10. Replace the path with the midi path and make sure it has apostrophes on both ends.
+11. To stop the music simply hold Alt+tab and switch to the command/powershell screen by using tab and close it.
 
 # Links
 
- Python: 
+ Python: https://www.python.org/
  Macro.py zip file: 
+   Github link: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Myinx/Undawn-Macro-Piano-All-Songs-/macro.py
+   Mirror link: https://drive.google.com/file/d/17Unq8X-YgnYg9AfSLLgDuFqrLyI-iHXw/view?usp=drive_link
  
- 
+ #About
+
+  #What are 
                            
