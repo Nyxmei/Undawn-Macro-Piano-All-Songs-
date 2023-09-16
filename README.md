@@ -48,7 +48,7 @@ I've created a Python script that enables you to play all the songs on the Undaw
 
 # License
 
-  - This project is under [MIT](https://github.com/Myinx/Undawn-Macro-Piano-All-Songs-/blob/main/License.md)
+  - This project is under [MIT](https://github.com/Myinx/Undawn-Macro-Piano-All-Songs-/blob/main/License.md).
     
   - © Tencent Co., Ltd. This project is not affiliated with Tencent or endorsed by them. Undawn and other properties mentioned here belong to their respective owners.
     
