@@ -33,17 +33,18 @@ I've created a Python script that enables you to play all the songs on the Undaw
      
  -[Drive](https://drive.google.com/file/d/17Unq8X-YgnYg9AfSLLgDuFqrLyI-iHXw/view?usp=drive_link)
  
- # About
+# About
 
-# What are MIDI?
+  ## What are MIDI?
    
- MIDI, or Musical Instrument Digital Interface, enables communication between electronic musical instruments, computers, and devices for music and sound production. It conveys note, timing, and control information, used to trigger sounds, control 
+   MIDI, or Musical Instrument Digital Interface, enables communication between electronic musical instruments, computers, and devices for music and sound production. It conveys note, timing, and control information, used to trigger sounds, control 
  synthesizers, and record performances. MIDI is a fundamental technology in the music industry.
 
-# Can this get me banned?
+  ## Can this get me banned?
 
- It's a bit uncertain, but I've personally used this tool on my own account for around a month, and so far, I haven't faced any bans. However, I'd advise you to exercise caution and use it at your own risk. Avoid playing songs that might flood your keyboard with 
+   It's a bit uncertain, but I've personally used this tool on my own account for around a month, and so far, I haven't faced any bans. However, I'd advise you to exercise caution and use it at your own risk. Avoid playing songs that might flood your keyboard with 
  inputs. Make sure taht you isten to the MIDI file beforehand, and consider sticking to a single instrument to prevent any keyboard spam."
+
 
 # License
 
