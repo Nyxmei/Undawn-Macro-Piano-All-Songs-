@@ -8,7 +8,7 @@ Thank you!!
 
 1. Download latest python in your system.
 2. Make sure to select these two options when insalling python -Add python.exe to path  -Install python for all users
-3. Open command prompt and type the following commands and tap enter:
+3. Open command prompt , type the following commands and tap enter:
 
      ```
    pip install mido pyautogui
