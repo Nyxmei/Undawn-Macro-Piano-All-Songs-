@@ -4,7 +4,7 @@ A script made using python which allows you to play all the songs in undawn pian
 If you enjoyed this project, do consider 🌟 starring the repository.
 Thank you!!
 
-#How to use
+# How to use
 1.Download latest python in your system (https://www.python.org)
 2.
        
