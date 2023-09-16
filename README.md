@@ -1,35 +1,37 @@
 # Undawn-Macro-Piano-All-Songs-
 
-A script made using python which allows you to play all the songs in undawn piano.
-If you enjoyed this project, do consider 🌟 starring the repository.
-Thank you!!
-
+I've created a Python script that enables you to play all the songs on the Undawn piano. If you found this project helpful, please consider giving it a star ⭐ on the repository. Thank you for your support!
 # How to use
 
 1. Download latest python in your system.
 2. Make sure to select these two options when insalling python -Add python.exe to path  -Install python for all users
-3. Open command prompt , type the following commands and tap enter:
-
+3. "Open the command prompt, type the following commands, and press Enter:
+   
      ```
    pip install mido pyautogui
     ```
   
-5. Download the zip folder containing macro.py and extract it.
-6. Download a midi music that goes well with piano and copy its path (Can simply right click on the downloaded midi and choose copy as path)
-7. Open the extracted folder containing macro.py and right click in a blank space to open Command Prompt/Windows Powershell in that respective folder.
-8. Now open the game and switch to piano screen.
-9. Come back to command/powershell window and type the following commands and switch to game once u tap enter:
+5. Download the zip folder that contains 'macro.py' and extract it.
+6. Download a MIDI music file that sounds good with the piano, and then right-click on the downloaded MIDI file and select 'Copy as path'.
+7. Open the extracted folder that contains 'macro.py,' and right-click in the empty space to open Command Prompt or Windows PowerShell in that folder.
+8. Open the game and go to the piano screen.
+9. Return to the Command/PowerShell window, enter the following commands, and switch back to the game after pressing Enter:
     ```
    py macro.py "PATH" 
      ```
-10. Replace the path with the midi path and make sure it has apostrophes on both ends.
-11. To stop the music simply hold Alt+tab and switch to the command/powershell screen by using tab and close it.
+10. Replace 'PATH' with the MIDI path you copied and ensure that you enclose the MIDI path with double quotation marks.
+
+# Note
+  
+  To stop the music, press Alt+Tab to switch to the Command/PowerShell screen, and then close it
 
 # Links
  
-  Macro.py zip:
-     [Github](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Myinx/Undawn-Macro-Piano-All-Songs-/macro.py)
-     [Drive](https://drive.google.com/file/d/17Unq8X-YgnYg9AfSLLgDuFqrLyI-iHXw/view?usp=drive_link)
+  Macro.py zip
+     
+ -[Github](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Myinx/Undawn-Macro-Piano-All-Songs-/macro.py)
+     
+ -[Drive](https://drive.google.com/file/d/17Unq8X-YgnYg9AfSLLgDuFqrLyI-iHXw/view?usp=drive_link)
  
  # About
 
