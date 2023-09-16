@@ -17,6 +17,10 @@ Thank you!!
 5. Download the zip folder containing macro.py and extract it.
 6. Download a midi music that goes well with piano and copy its path (Can simply right click on the downloaded midi and choose copy as path)
 7. Open the extracted folder containing macro.py and right click in a blank space to open Command Prompt/Windows Powershell in that respective folder.
-8. Now open the game and Switch to piano screen.
-9. Come back to command/powershell window and type the following commands
+8. Now open the game and switch to piano screen.
+9. Come back to command/powershell window and type the following commands and switch to game once u tap enter:
+    ```
+   py macro.py "PATH"
+     ```
+10.To stop the music simply hold Alt+tab and switch to the command/powershell screen by using tab and close it.
                            
