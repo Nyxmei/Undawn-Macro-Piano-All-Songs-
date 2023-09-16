@@ -9,18 +9,9 @@ Thank you!!
 1. Download latest python in your system.
 2. Make sure to select these two options when insalling python -Add python.exe to path  -Install python for all users
 3. Open command prompt and tpye the following commands:
-   <div class="container">
-    <div class="label">
-      Joining Link
-    </div>
+
+  $pip install mido pyautogui$
   
-    <div class="copy-text">
-      <input type="text" class="text" value= pip install mido pyautogui
-      <button>
-        <i class="fa fa-clone"></i>
-      </button>
-    </div>
-  </div>
 5. Download the zip folder containing macro.py and extract it.
 6. Download a midi music that goes well with piano and copy its path (Can simply right click on the downloaded midi and choose copy as path)
 7. Open the extracted folder containing macro.py and right click in a blank space to open Command Prompt/Windows Powershell in that respective folder.
