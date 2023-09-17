@@ -24,6 +24,10 @@ I've created a Python script that enables you to play all the songs on the Undaw
 # Note
   
   To stop the music, press Alt+Tab to switch to the Command/PowerShell screen, and then close it
+  OR Take your mouse curson to bottom right code will stop
+
+# Tutorial
+ - https://www.youtube.com/watch?v=8v8tzFPMVAM
 
 # Links
  
