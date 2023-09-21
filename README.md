@@ -36,6 +36,8 @@ I've created a Python script that enables you to play all the songs on the Undaw
  -[Github](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Myinx/Undawn-Macro-Piano-All-Songs-/macro.py)
      
  -[Drive](https://drive.google.com/file/d/17Unq8X-YgnYg9AfSLLgDuFqrLyI-iHXw/view?usp=drive_link)
+
+ -[Drive(Updated-Can stop using Esc)](https://drive.google.com/file/d/1Z1R5ZUl3cmaRXiB0d3quTdzotRZO-AWT/view?usp=sharing)
  
 # About
 
