@@ -27,7 +27,7 @@ I've created a Python script that enables you to play all the songs on the Undaw
   OR Take your mouse curson to bottom right code will stop
 
 # Tutorial
- -[ https://www.youtube.com/watch?v=8v8tzFPMVAM](https://youtu.be/8v8tzFPMVAM?si=fq9HfPpyksJ0oHDj)
+ - [here]( https://www.youtube.com/watch?v=8v8tzFPMVAM](https://youtu.be/8v8tzFPMVAM?si=fq9HfPpyksJ0oHDj )
 
 # Links
  
