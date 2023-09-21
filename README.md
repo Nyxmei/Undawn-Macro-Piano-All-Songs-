@@ -37,8 +37,6 @@ I've created a Python script that enables you to play all the songs on the Undaw
      
  -[Drive](https://drive.google.com/file/d/17Unq8X-YgnYg9AfSLLgDuFqrLyI-iHXw/view?usp=drive_link)
 
- -[Drive(Updated-Can stop using Esc)](https://drive.google.com/file/d/13Sc2sYyheq9YXYD6IUkHLNuRTTJpAluq/view?usp=drive_link)
- 
 # About
 
   ## What are MIDI?
