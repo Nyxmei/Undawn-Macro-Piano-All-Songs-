@@ -20,12 +20,15 @@ I've created a Python script that enables you to play all the songs on the Undaw
    py macro.py "PATH" 
      ```
 10. Replace 'PATH' with the MIDI path you copied and ensure that you enclose the MIDI path with double quotation marks.
-11. If you are using the updated version : Play - Press F5 , Stop - Press F6
 
 # Note
-  
+
+  For Old version:
   To stop the music, press Alt+Tab to switch to the Command/PowerShell screen, and then close it
   OR Take your mouse curson to bottom right code will stop
+
+  For Updated version:
+  F5 = Play & F6 = Stop
 
 # Tutorial
  - [here]( https://www.youtube.com/watch?v=8v8tzFPMVAM](https://youtu.be/8v8tzFPMVAM?si=fq9HfPpyksJ0oHDj )
