@@ -8,9 +8,9 @@ I've created a Python script that enables you to play all the songs on the Undaw
 3. Open the command prompt, type the following commands, and press Enter:
    
      ```
-   pip install mido pyautogui
+   pip install mido pyautogui keyboard
     ```
-  
+     
 5. Download the zip folder that contains 'macro.py' and extract it.
 6. Download a MIDI music file that sounds good with the piano, and then right-click on the downloaded MIDI file and select 'Copy as path'.
 7. Open the extracted folder that contains 'macro.py,' and right-click in the empty space to open Command Prompt or Windows PowerShell in that folder.
@@ -20,6 +20,7 @@ I've created a Python script that enables you to play all the songs on the Undaw
    py macro.py "PATH" 
      ```
 10. Replace 'PATH' with the MIDI path you copied and ensure that you enclose the MIDI path with double quotation marks.
+11. If you are using the updated version : Play - Press F5 , Stop - Press F6
 
 # Note
   
@@ -35,7 +36,7 @@ I've created a Python script that enables you to play all the songs on the Undaw
      
  -[Github](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Myinx/Undawn-Macro-Piano-All-Songs-/macro.py)
 
- -Updated Macro.py (F5 to Play,F6 to stop)
+ -Updated Macro.py 
  [Drive](https://drive.google.com/file/d/13Sc2sYyheq9YXYD6IUkHLNuRTTJpAluq/view?usp=drive_link)
 
  -Old macro.py
