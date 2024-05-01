@@ -56,7 +56,7 @@ I've created a Python script that enables you to play all the songs on the Undaw
   ## Can this get me banned?
 
    It's a bit uncertain, but I've personally used this tool on my own account for around a month, and so far, I haven't faced any bans. However, I'd advise you to exercise caution and use it at your own risk. Avoid playing songs that might flood your keyboard with 
- inputs. Make sure that you isten to the MIDI file beforehand, and consider sticking to a single instrument to prevent any keyboard spam."
+ inputs. Make sure that you isten to the MIDI file beforehand, and consider sticking to a single instrument to prevent any keyboard spam.
 
 
 # License
